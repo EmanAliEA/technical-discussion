@@ -11,4 +11,5 @@ This is a demo repo for sharing ideas around communication
 This is a good example of [myCode](https://gist.github.com/EmanAliEA/8c02fd1eac52b5bbdf6cd6a235a6daa1)
 
 ### Image
-https://github.com/EmanAliEA/technical-discussion/issues/1
+![image](https://github.com/user-attachments/assets/eecdc5bb-b3f8-4cf0-ab32-a926a47ecc7c)
+
